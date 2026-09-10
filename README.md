@@ -156,7 +156,7 @@ Main Table: `car`
 
 ## 🖼️ Screenshots
 
-> ![Homepage](../car_change/images/homepage.png)
+>  ![Homepage](images/homepage.png)
 
 
 ## 👨‍💻 Authors
